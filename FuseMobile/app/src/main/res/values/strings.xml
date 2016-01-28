@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FuseMobile</string>
+    <string name="company_text_view">Enter company name to query :</string>
+    <string name="company_failure">Failed to query company</string>
 </resources>
